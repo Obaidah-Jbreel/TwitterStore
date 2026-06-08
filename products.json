@@ -77,7 +77,7 @@
     },
     {
       "id": "power-supply-adp-400fr",
-      "name": "Power Supply ADP-400FR",
+      "name": "Power Supply ADP-400FR/ADP-400ER",
       "category": "PS5",
       "price": 200,
       "image": "https://i.ebayimg.com/images/g/neEAAOSwSc5nNbr5/s-l1200.jpg",
@@ -98,7 +98,7 @@
       "name": "USB-C Front Port Slim",
       "category": "PS5",
       "price": 10,
-      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S43e57c9706544a3f843571c7314b784cV.jpg",
+      "image": "https://i.ebayimg.com/images/g/61oAAOSwI55msdzl/s-l1200.jpg",
       "linkName": "usbCFrontPortSlim",
       "linkLabel": "Open product"
     },
@@ -140,7 +140,7 @@
     },
     {
       "id": "board-charger-ps4",
-      "name": "Board Charger PS4",
+      "name": "PS4 Controller Chargin Board",
       "category": "PS4",
       "price": 5,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzYZxBuguywIUESaJ5z1svclIJJeDv4uREkA&s",
@@ -149,9 +149,9 @@
     },
     {
       "id": "hdmi-ps4",
-      "name": "HDMI PS4",
+      "name": "HDMI PS4 Phat/Slim/PRO Port Replacement ",
       "category": "PS4",
-      "price": 4,
+      "price": 15,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmHN36cNIlorZfsk2JMNTW0cfcIty2HUGDcA&s",
       "linkName": "hdmiPs4",
       "linkLabel": "Open product"
@@ -178,7 +178,7 @@
       "id": "lens-860",
       "name": "Ps4 Lens 860",
       "category": "PS4",
-      "price": 60,
+      "price": 100,
       "image": "https://ae-pic-a1.aliexpress-media.com/kf/S1fb93df96b7e42218c56712da2d3ec6cg.jpg",
       "linkName": "lens860",
       "linkLabel": "Open product"
@@ -214,8 +214,8 @@
       "id": "power-xbox-one-s",
       "name": "Power Xbox One S",
       "category": "Xbox One",
-      "price": 100,
-      "image": "https://delta5.co.za/wp-content/uploads/2023/07/ONE-S-HDMI.jpg",
+      "price": 150,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT48u4T4W0-PFeDNBlWj4DYEBvhiOzVAsDyJw&s",
       "linkName": "powerXboxOneS",
       "linkLabel": "Open product"
     },
@@ -325,7 +325,7 @@
       "id": "ps5-lens-497",
       "name": "PS5 Lens 497",
       "category": "PS5",
-      "price": 70,
+      "price": 150,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Vflmt1akLL1xNF_AGV7-xsEGwhOkj7utmQ&s",
       "linkLabel": "Open product"
     },
