@@ -98,7 +98,7 @@
     },
     {
       "id": "Lense-499-ps5",
-      "name": "PS5 Type-C Port For Controller",
+      "name": "PS5 Lense-499",
       "category": "PS5",
       "price": 120,
       "image": "https://m.media-amazon.com/images/I/71fhOaTEiUL.jpg",
@@ -247,6 +247,17 @@
       "linkLabel": "Open product"
     }
     ,
+    
+    {
+      "id": "drive-motor-ps4",
+      "name": "Drive Motor PS4",
+      "category": "PS4",
+      "price": 30,
+      "image": "https://m.media-amazon.com/images/I/31yIAQ3MtgS._AC_UF894,1000_QL80_.jpg",
+      "linkName": "driveMotorPs4",
+      "linkLabel": "Open product"
+    }
+    ,
     {
       "id": "Rubber-ps4",
       "name": "طقم جلد كامل  PS4",
@@ -267,10 +278,10 @@
       "linkLabel": "Open product"
     },    {
       "id": "drive-lense-ps4",
-      "name": "drive and lense PS4",
+      "name": "PS4 Lens And Drive Replacement",
       "category": "PS4",
       "price": 150,
-      "image": "https://tse3.mm.bing.net/th/id/OIP.vxw9Mrn09J6TJOhKELOtygHaHa?r=0&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3,",
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S1fb93df96b7e42218c56712da2d3ec6cg.jpg",
       "linkName": "analogPs4",
       "linkLabel": "Open product"
     },    {
@@ -303,7 +314,7 @@
     },
     {
       "id": "ic-hdmi-PS4",
-      "name": "HDMI IC PS4 Phat",
+      "name": "HDMI IC PS4 Phat/SLIM",
       "category": "PS4",
       "price": 100,
       "image": "https://trtech.com.ar/wp-content/uploads/2024/04/IC-PANASONIC-FAT-2-860x852.jpg",
@@ -321,10 +332,10 @@
     },
     {
       "id": "flat-charging-ps4",
-      "name": "SP4 Charging FLat 16pin/14pin/12pin",
+      "name": "PS4 Charging FLat 16pin/14pin/12pin",
       "category": "PS4",
       "price": 3,
-      "image": "https://www.zeepee.in/wp-content/uploads/2022/05/PS4-SLIM-ON-OFF-SWICHx-1.jpg",
+      "image": "https://m.media-amazon.com/images/I/51g+BQMtKcL.jpg",
       "linkName": "analogPs4",
       "linkLabel": "Open product"
     },
@@ -374,11 +385,49 @@
       "linkLabel": "Open product"
     },
     {
+      "id": "ps4-power-button-board",
+      "name": "PS4 Power Button Board",
+      "category": "PS4",
+      "price": 10,
+      "image": "https://preview.redd.it/1st-gen-ps4-fat-eject-button-not-working-v0-4pg1geond1xc1.jpg?width=1080&crop=smart&auto=webp&s=dacb4d5c41e55b42058fb8e0e66f82ca3f728ddb",
+      "linkName": "ps4SlimDvdDrive",
+      "linkLabel": "Open product"
+    }
+    ,
+    {
+      "id": "ps4-AUX-socket",
+      "name": "PS4 Controller AUX Socket",
+      "category": "PS4",
+      "price": 15,
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkQn8ChsRZGF6wbpfHWzwGY4vtdvbFQkQMpY0-FnTJpO09tGbr",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
+    
+    {
+      "id": "ps4-lense-490",
+      "name": "PS4 Lens 490",
+      "category": "PS4",
+      "price": 70,
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S83789d52b61c4b638be05a66cf3a15cb8.jpg",
+      "linkName": "lens490",
+      "linkLabel": "Open product"
+    },
+    {
       "id": "ps4-fan",
-      "name": "PS4 Fan",
+      "name": "PS4 Fan Replacement SLim/Phat/PRO",
       "category": "PS4",
       "price": 50,
       "image": "https://cdn.shopify.com/s/files/1/0081/9537/5185/files/AyXJTWMlCOCdC6EI.jpg?v=1728587437",
+      "linkName": "ps4Fan",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "ps4-l2l1-replacment",
+      "name": "طقم كبسات كامل لايادي تحكم",
+      "category": "PS4",
+      "price": 10,
+      "image": "https://m.media-amazon.com/images/I/5153N1X-f-L._AC_UF1000,1000_QL80_.jpg",
       "linkName": "ps4Fan",
       "linkLabel": "Open product"
     },
@@ -387,7 +436,7 @@
       "name": "Ps4 Lens 860",
       "category": "PS4",
       "price": 100,
-      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S1fb93df96b7e42218c56712da2d3ec6cg.jpg",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.vxw9Mrn09J6TJOhKELOtygHaHa?r=0&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3,",
       "linkName": "lens860",
       "linkLabel": "Open product"
     },
@@ -398,6 +447,23 @@
       "category": "Xbox Series",
       "price": 10,
       "image": "https://ae01.alicdn.com/kf/S2c4bf3b1ab2f4866ae11fef4fc9cd131H.jpg",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "charging-port-xbox-series-s",
+      "name": "xbox series s charging port ",
+      "category": "Xbox Series",
+      "price": 8,
+      "image": "https://m.media-amazon.com/images/I/51gNuzkwohL.jpg",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "lbrb-xbox-series-s",
+      "name": "lbrb Shell Xbox Series S/x",
+      "category": "Xbox Series",
+      "price": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh60zlj9Eq8u8_YelX9FpTAuS1C2j0mkLfWQ&s",
+      "linkName": "powerXboxSeriesS",
       "linkLabel": "Open product"
     },
     {
@@ -426,8 +492,42 @@
       "image": "https://ae01.alicdn.com/kf/Hbb9a9cda395f45a0bde54428fcb304cbe/Original-New-For-XBOX-Series-S-X-HDMI-compatible-Port-Socket-Interface-Connector-Replacement-For-XBOX.jpg",
       "linkName": "powerXboxSeriesX",
       "linkLabel": "Open product"
+    }
+    ,
+    {
+      "id": "Xbox-AUX-socket",
+      "name": "Xbox one/series Controller AUX Socket",
+      "category": "Xbox Series",
+      "price": 15,
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sc754a0ff89ac4f00baa72583da2893b45.jpg_960x960q75.jpg_.avif",
+      "linkName": "",
+      "linkLabel": "Open product"
     },
-   
+    {
+      "id": "xbox-Series-button",
+      "name": "Xbox Series RBLB Button",
+      "category": "Xbox Series",
+      "price": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJ88MpqAXrcxYbej1T4-oaxHp7ItqeXNXfeTlk67D9dvdtWYK",
+      "linkLabel": "Open product"
+    },
+      {
+      "id": "xbox-One-button",
+      "name": "Xbox One RBLB Button",
+      "category": "Xbox One",
+      "price": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJ88MpqAXrcxYbej1T4-oaxHp7ItqeXNXfeTlk67D9dvdtWYK",
+      "linkLabel": "Open product"
+    },
+     {
+      "id": "lbrb-xbox-One",
+      "name": "lbrb Shell Xbox One S/X",
+      "category": "Xbox One",
+      "price": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh60zlj9Eq8u8_YelX9FpTAuS1C2j0mkLfWQ&s",
+      "linkName": "powerXboxSeriesS",
+      "linkLabel": "Open product"
+    },
     {
       "id": "hdmi-xbox-one",
       "name": "HDMI Xbox One",
@@ -456,6 +556,25 @@
       "linkLabel": "Open product"
     },
     {
+      "id": "power-xbox-one-s",
+      "name": "IC HDMI Xbox One S/X",
+      "category": "Xbox One",
+      "price": 50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtYtSv0seKl4v-tpV3K7eeZDjmiZFF-7--WQ&s",
+      "linkName": "",
+      "linkLabel": "Open product"
+    }  ,
+    {
+      "id": "Xbox-AUX-socket",
+      "name": "Xbox one/series Controller AUX Socket",
+      "category": "Xbox One",
+      "price": 15,
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sc754a0ff89ac4f00baa72583da2893b45.jpg_960x960q75.jpg_.avif",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
+    
+    {
       "id": "power-xbox-one-x",
       "name": "Power Xbox One X",
       "category": "Xbox One",
@@ -464,7 +583,6 @@
       "linkName": "powerXboxOneX",
       "linkLabel": "Open product"
     },
-   
     {
       "id": "power-xbox-360-se",
       "name": "Power Xbox 360 S/E",
@@ -472,6 +590,24 @@
       "price": 120,
       "image": "https://cdn11.bigcommerce.com/s-ez2sytmqce/images/stencil/1280x1280/products/34361/34057/m07099__47511.1698177484.jpg?c=2",
       "linkName": "powerXbox360Se",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "Postfix-360-se",
+      "name": "POSTFIX Xbox 360 S/E",
+      "category": "Xbox 360",
+      "price": 10,
+      "image": "https://preview.redd.it/what-is-the-difference-between-these-2-postfix-v0-xigcz1cghm9f1.png?width=640&crop=smart&auto=webp&s=f6fb2e973a90c977529e1c18b8b71c9e866dea1f",
+      "linkName": "powerXbox360Se",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "flex-xbox-360",
+      "name": "xbox 360 frontpanel Flex Cable S/E",
+      "category": "Xbox 360",
+      "price": 10,
+      "image": "   https://tse2.mm.bing.net/th/id/OIP.DVET1RAzWkaQAsoxILFRYAHaHa?r=0&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "linkName": "",
       "linkLabel": "Open product"
     },
     {
@@ -499,7 +635,14 @@
       "image": "https://m.media-amazon.com/images/I/61twR8IZMgL._AC_UF1000,1000_QL80_.jpg",
       "linkLabel": "Open product"
     },
-    
+    {
+      "id": "xbox-360-rblb-button",
+      "name": "Xbox 360 RBLB Button",
+      "category": "Xbox 360",
+      "price": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJ88MpqAXrcxYbej1T4-oaxHp7ItqeXNXfeTlk67D9dvdtWYK",
+      "linkLabel": "Open product"
+    },
     {
       "id": "mx4-thermal-paste",
       "name": "MX4 Thermal Paste",
@@ -507,6 +650,14 @@
       "price": 45,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10clRyDVeAOX5j-oFHBcm0yha0gukIacRFA&s",
       "linkName": "mx4ThermalPaste",
+      "linkLabel": "Open product"
+    },{
+      "id": "alaminum-Foil-paste-paste",
+      "name": "لاصق المنيوم لحماية الوحة من الحرارة",
+      "category": "General",
+      "price": 50,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41C-bCH-LlL._SL500_._AC_SL500_.jpg",
+      "linkName": "alaminumFoilPaste",
       "linkLabel": "Open product"
     },
     {
@@ -516,6 +667,15 @@
       "price": 40,
       "image": "https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Tin%20Lead%20Solder%20Wire%20Rosin%20Core%20Soldering%20200g%200.8mm/Tin%20Lead%20Solder%20Wire%20Rosin%20Core%20Soldering%20200g%20%200.8mm%20-%20Twins%20Chip%201-550x550.jpg",
       "linkName": "solderWire08mm",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "Amtech-flux-100g",
+      "name": "Amtech Flux 100g",
+      "category": "General",
+      "price": 40,
+      "image": "https://tse2.mm.bing.net/th/id/OIP.KDjqc7Fn8vWNvTXOORFh-wHaHa?r=0&cb=thfvnextfalcon2&w=800&h=800&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "linkName": "",
       "linkLabel": "Open product"
     },
     {
@@ -559,7 +719,30 @@
       "price": 200,
       "image": "https://computerlounge.co.nz/cdn/shop/files/c0abd707d27d0cc02e7e6d010e8e962a10890b90_61303_1.jpg?v=1742038563&width=640",
       "linkLabel": "Open product"
+    },
+    {
+      "id": "Solder-Sucker-20g",
+      "name": "Solder Sucker ",
+      "category": "General",
+      "price": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkv82kjx07XR9XpXnjB-2kSzexyWZCuyLOA&s",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "Falcon-530",
+      "name": "Falcon 530",
+      "category": "General",
+      "price": 30,
+      "image": "https://m.media-amazon.com/images/I/51px+l94TPL.jpg",
+      "linkLabel": "Open product"
+    },
+     {
+      "id": "maintaince-place",
+      "name": "جلدة صيانة",
+      "category": "General",
+      "price": 80,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IfxRgI2EdidoZuVNTKPtFv3299QpC0HZZQ&s",
+      "linkLabel": "Open product"
     }
-    
   ]
 }
