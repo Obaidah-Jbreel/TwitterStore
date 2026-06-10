@@ -1,35 +1,7 @@
 {
   "storeTitle": "TwitterStore",
-  "productLinks": {
-    "analogPs5": "https://twitterstore.example.com/products/analog-ps5",
-    "boardChargerPs5": "https://twitterstore.example.com/products/board-charger-ps5",
-    "ps5OriginalBattery": "https://twitterstore.example.com/products/ps5-original-battery",
-    "thermalGrizzlyMercury": "https://twitterstore.example.com/products/thermal-grizzly-mercury",
-    "ps5SlimDiscDrive": "https://twitterstore.example.com/products/ps5-slim-disc-drive",
-    "powerSupplyAdp400fr": "https://twitterstore.example.com/products/power-supply-adp-400fr",
-    "powerSupplyAdp400grSlim": "https://twitterstore.example.com/products/power-supply-adp-400gr-slim",
-    "usbCFrontPortSlim": "https://twitterstore.example.com/products/usb-c-front-port-slim",
-    "fanPs5": "https://twitterstore.example.com/products/fan-ps5",
-    "hdmiIcPs5": "https://twitterstore.example.com/products/hdmi-ic-ps5",
-    "analogPs4": "https://twitterstore.example.com/products/analog-ps4",
-    "capPs4": "https://twitterstore.example.com/products/cap-ps4",
-    "boardChargerPs4": "https://twitterstore.example.com/products/board-charger-ps4",
-    "hdmiPs4": "https://twitterstore.example.com/products/hdmi-ps4",
-    "ps4SlimDvdDrive": "https://twitterstore.example.com/products/ps4-slim-dvd-drive",
-    "ps4Fan": "https://twitterstore.example.com/products/ps4-fan",
-    "lens860": "https://twitterstore.example.com/products/lens-860",
-    "powerXboxSeriesS": "https://twitterstore.example.com/products/power-xbox-series-s",
-    "powerXboxSeriesX": "https://twitterstore.example.com/products/power-xbox-series-x",
-    "hdmiXboxOne": "https://twitterstore.example.com/products/hdmi-xbox-one",
-    "powerXboxOneS": "https://twitterstore.example.com/products/power-xbox-one-s",
-    "powerXboxOneX": "https://twitterstore.example.com/products/power-xbox-one-x",
-    "powerXbox360Se": "https://twitterstore.example.com/products/power-xbox-360-se",
-    "analogXbox360": "https://twitterstore.example.com/products/analog-xbox-360",
-    "mx4ThermalPaste": "https://twitterstore.example.com/products/mx4-thermal-paste",
-    "solderWire08mm": "https://twitterstore.example.com/products/solder-wire-0-8mm",
-    "repairTweezers": "https://twitterstore.example.com/products/repair-tweezers"
-  },
   "products": [
+    
     {
       "id": "analog-ps5",
       "name": "Analog PS5",
@@ -39,12 +11,124 @@
       "linkName": "analogPs5",
       "linkLabel": "Open product"
     },
+    
     {
-      "id": "board-charger-ps5",
-      "name": "Board Charger PS5",
+      "id": "drive-froll-ps5",
+      "name": "Drive Internal rolls",
+      "category": "PS5",
+      "price": 20,
+      "image": "https://tse2.mm.bing.net/th/id/OIP.HIMg2l3iZAc22TfadwID7wHaHH?r=0&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },{
+      "id": "BDM-Internal-Structure",
+      "name": "BDM-030 هيكل داخلي ليد تحكم نسخة PS5",
+      "category": "PS5",
+      "price": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcqeX5XevQCVaojL7_ffcczAsSjXe5Kj6JQ&s",
+      "linkName": "analogPs5",
+      "linkLabel": "Open product"
+    },{
+      "id": "BTNS-Package-PS5",
+      "name": "طقم كبسات ليد تحكم PS5",
+      "category": "PS5",
+      "price": 10,
+      "image": "https://i.ebayimg.com/images/g/Ph4AAOSwieJiqsV6/s-l1200.jpg",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "USB-Port-PS5",
+      "name": "USB Port PS5",
+      "category": "PS5",
+      "price": 10,
+      "image": "https://m.media-amazon.com/images/I/612vRCsQwAL.jpg",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },{
+      "id": "Rubber-PS5",
+      "name": "جلد ايد تحكم PS5",
+      "category": "PS5",
+      "price": 3,
+      "image": "https://delta5.co.za/wp-content/uploads/2023/12/ps5-dualsense-controller-bdm-030-conductive-rubber-pad-set.jpg",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },{
+      "id": "Controller-Flat-PS5",
+      "name": "جميع انواع فلات كبسات ليد تحكم PS5",
+      "category": "PS5",
+      "price": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs138a4gx1vPDi9tZ1b_Pp2LJLjWUv5FmgcQ&s",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "Films-PS5",
+      "name": "شبك داخلي لجميع انواع ايادي التحكم",
+      "category": "PS5",
+      "price": 6,
+      "image": "https://tse4.mm.bing.net/th/id/OIP.ywKi4e9Ay95pUm1dUut0MQHaHa?r=0&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },{
+      "id": "Camera-Cables-PS5",
+      "name": "Microphone and Motion Sensor Cables for PS5 Controller",
+      "category": "PS5",
+      "price": 5,
+      "image": "https://www.nevs-controller.de/images/product_images/original_images/ps5-controller-flexbandkabel-mikrofonkabel.jpg",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },{
+      "id": "drive-phat-PS5",
+      "name": "PS5 Drive Phat Replacement",
+      "category": "PS5",
+      "price": 250,
+      "image": "https://thfvnext.bing.com/th/id/OIP.yOVBJYgPr0kxmYLqdCnQ8QHaHa?w=186&h=184&c=7&r=0&o=7&cb=thfvnextfalcon2&dpr=1.3&pid=1.7&rm=3",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "USBC-Port-ps5",
+      "name": "PS5 Type-C Port For Controller",
       "category": "PS5",
       "price": 8,
       "image": "https://i.ebayimg.com/images/g/Y3sAAOSw339j~0G~/s-l1200.jpg",
+      "linkName": "boardChargerPs5",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "Lense-499-ps5",
+      "name": "PS5 Type-C Port For Controller",
+      "category": "PS5",
+      "price": 120,
+      "image": "https://m.media-amazon.com/images/I/71fhOaTEiUL.jpg",
+      "linkName": "boardChargerPs5",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "PS5-Films-Ps5",
+      "name": "PS5 Films PS5",
+      "category": "PS5",
+      "price": 6,
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sb35eaef448d34d259c37fb97483e2eb6a.jpg",
+      "linkName": "boardChargerPs5",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "PS5-Drive-Ps5",
+      "name": "PS5 Phat Drive replacement ",
+      "category": "PS5",
+      "price": 200,
+      "image": "https://modchip.gr/wp-content/uploads/2023/11/PS5-Standard-Edition-DVD-Rom-Drive-KES-497-CFI-1000A-%CE%BC%CE%B5-Cover.jpg",
+      "linkName": "boardChargerPs5",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "PS5-HDMI-PS5",
+      "name": "PS5 Phat/Slim/Pro HDMI Port",
+      "category": "PS5",
+      "price": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmLtWG56K5h-cjyv7RsAqDGRfmcj5LTwdGg&s",
       "linkName": "boardChargerPs5",
       "linkLabel": "Open product"
     },
@@ -80,7 +164,7 @@
       "name": "Power Supply ADP-400FR/ADP-400ER",
       "category": "PS5",
       "price": 200,
-      "image": "https://i.ebayimg.com/images/g/neEAAOSwSc5nNbr5/s-l1200.jpg",
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S8c859a54d69e4f4c8ae07c0b71a099a2X.jpg",
       "linkName": "powerSupplyAdp400fr",
       "linkLabel": "Open product"
     },
@@ -121,11 +205,135 @@
       "linkLabel": "Open product"
     },
     {
+      "id": "ps5-wifi-j20h104",
+      "name": "PS5 WiFi J20H104",
+      "category": "PS5",
+      "price": 150,
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sbea31deb3d64401493afc8e3f9d3f20bA.jpg",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "fan-ps5-slim",
+      "name": "Fan PS5 Slim",
+      "category": "PS5",
+      "price": 80,
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S144d50da5dd642db94ac5e014e6db618Q.jpg",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "ps5-lens-497",
+      "name": "PS5 Lens 497",
+      "category": "PS5",
+      "price": 150,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Vflmt1akLL1xNF_AGV7-xsEGwhOkj7utmQ&s",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "ps5-cap-iron",
+      "name": "PS5 Cap Iron",
+      "category": "PS5",
+      "price": 15,
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S27898e80918f48ef8dcc64a04ff9a92eP.jpg",
+      "linkLabel": "Open product"
+    },
+    
+    {
       "id": "analog-ps4",
       "name": "Analog PS4",
       "category": "PS4",
       "price": 4,
       "image": "https://www.mbitechparts.ie/wp-content/uploads/2017/07/PlayStation-4-5-Replacement-Analog-Joystick-Toggle-Switch-Wireless-Controller-PS4-PS5-bottom.jpg",
+      "linkName": "analogPs4",
+      "linkLabel": "Open product"
+    }
+    ,
+    {
+      "id": "Rubber-ps4",
+      "name": "طقم جلد كامل  PS4",
+      "category": "PS4",
+      "price": 15,
+      "image": "https://m.media-amazon.com/images/I/31v-KA4ohsL._AC_UF894,1000_QL80_.jpg",
+      "linkName": "analogPs4",
+      "linkLabel": "Open product"
+    }
+    ,
+    {
+      "id": "film-ps4",
+      "name": "شبك لجميع انواع ايادي التحكم",
+      "category": "PS4",
+      "price": 5,
+      "image": "https://ae01.alicdn.com/kf/S0c3c20be407e47fdb9254fc2e3d1adabG.jpg",
+      "linkName": "analogPs4",
+      "linkLabel": "Open product"
+    },    {
+      "id": "drive-lense-ps4",
+      "name": "drive and lense PS4",
+      "category": "PS4",
+      "price": 150,
+      "image": "https://tse3.mm.bing.net/th/id/OIP.vxw9Mrn09J6TJOhKELOtygHaHa?r=0&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3,",
+      "linkName": "analogPs4",
+      "linkLabel": "Open product"
+    },    {
+      "id": "lense-496-ps4",
+      "name": "Lense 496 PS4",
+      "category": "PS4",
+      "price": 100,
+      "image": "https://tse1.mm.bing.net/th/id/OIP.i9lCIE4PX7RdtBvB7IFvMwHaHa?r=0&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "linkName": "analogPs4",
+      "linkLabel": "Open product"
+    },
+    
+    {
+      "id": "frontpanel-buttons-ps4",
+      "name": "frontpanel buttons PS4 Slim",
+      "category": "PS4",
+      "price": 70,
+      "image": "https://www.zeepee.in/wp-content/uploads/2022/05/PS4-SLIM-ON-OFF-SWICHx-1.jpg",
+      "linkName": "analogPs4",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "drive-froll-ps4",
+      "name": "Drive Internal rolls",
+      "category": "PS4",
+      "price": 20,
+      "image": "https://tse2.mm.bing.net/th/id/OIP.HIMg2l3iZAc22TfadwID7wHaHH?r=0&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "ic-hdmi-PS4",
+      "name": "HDMI IC PS4 Phat",
+      "category": "PS4",
+      "price": 100,
+      "image": "https://trtech.com.ar/wp-content/uploads/2024/04/IC-PANASONIC-FAT-2-860x852.jpg",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "power-supply-PS4",
+      "name": "Power Supply PS4 160CR/ER/FR",
+      "category": "PS4",
+      "price": 150,
+      "image": "https://ae01.alicdn.com/kf/S99b0702668ce42b8aaafa0e47973d511o/Replacement-Power-Supply-4pin-ADP-240CR-240AR-5pin-for-PS4-CUH-1200-Console-ADP-200ER-N14.jpg",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "flat-charging-ps4",
+      "name": "SP4 Charging FLat 16pin/14pin/12pin",
+      "category": "PS4",
+      "price": 3,
+      "image": "https://www.zeepee.in/wp-content/uploads/2022/05/PS4-SLIM-ON-OFF-SWICHx-1.jpg",
+      "linkName": "analogPs4",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "southbridge-ps4",
+      "name": "cxd90042/6/46 PS4 Slim SIE",
+      "category": "PS4",
+      "price": "170 - 80",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_966900-MLA75791391568_042024-O.webp",
       "linkName": "analogPs4",
       "linkLabel": "Open product"
     },
@@ -183,6 +391,15 @@
       "linkName": "lens860",
       "linkLabel": "Open product"
     },
+    
+    {
+      "id": "battery-cover-xbox-series-s",
+      "name": "Battery Cover Xbox Series S",
+      "category": "Xbox Series",
+      "price": 10,
+      "image": "https://ae01.alicdn.com/kf/S2c4bf3b1ab2f4866ae11fef4fc9cd131H.jpg",
+      "linkLabel": "Open product"
+    },
     {
       "id": "power-xbox-series-s",
       "name": "Power Xbox Series S",
@@ -201,6 +418,16 @@
       "linkName": "powerXboxSeriesX",
       "linkLabel": "Open product"
     },
+      {
+      "id": "power-xbox-series-x",
+      "name": "HDMI Xbox Series S/X",
+      "category": "Xbox Series",
+      "price": 30,
+      "image": "https://ae01.alicdn.com/kf/Hbb9a9cda395f45a0bde54428fcb304cbe/Original-New-For-XBOX-Series-S-X-HDMI-compatible-Port-Socket-Interface-Connector-Replacement-For-XBOX.jpg",
+      "linkName": "powerXboxSeriesX",
+      "linkLabel": "Open product"
+    },
+   
     {
       "id": "hdmi-xbox-one",
       "name": "HDMI Xbox One",
@@ -208,6 +435,15 @@
       "price": 20,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPkDXkXnCDq-pmhGOmfmLreB2qowU5yIA7g&s",
       "linkName": "hdmiXboxOne",
+      "linkLabel": "Open product"
+    },
+        {
+      "id": "cap-xbox-one",
+      "name": "Xbox One/360 Cap",
+      "category": "Xbox One",
+      "price": 1,
+      "image": "https://m.media-amazon.com/images/I/61l3QP5IjJL._AC_.jpg",
+      "linkName": "",
       "linkLabel": "Open product"
     },
     {
@@ -228,6 +464,7 @@
       "linkName": "powerXboxOneX",
       "linkLabel": "Open product"
     },
+   
     {
       "id": "power-xbox-360-se",
       "name": "Power Xbox 360 S/E",
@@ -247,6 +484,23 @@
       "linkLabel": "Open product"
     },
     {
+      "id": "xbox-360-battery-holder",
+      "name": "Xbox 360 Battery Holder",
+      "category": "Xbox 360",
+      "price": 10,
+      "image": "https://i5.walmartimages.com/seo/2-Pcs-Battery-Pack-Cover-Shell-for-Xbox-360-Game-Controller_b31990f1-aa03-43f6-94dc-178fdcf15da8.945a0b9c67e9b347a13470830d71a9e8.jpeg",
+      "linkLabel": "Open product"
+    },
+    {
+      "id": "xbox-360-charge-cable",
+      "name": "Xbox 360 Charge Cable",
+      "category": "Xbox 360",
+      "price": 10,
+      "image": "https://m.media-amazon.com/images/I/61twR8IZMgL._AC_UF1000,1000_QL80_.jpg",
+      "linkLabel": "Open product"
+    },
+    
+    {
       "id": "mx4-thermal-paste",
       "name": "MX4 Thermal Paste",
       "category": "General",
@@ -265,6 +519,15 @@
       "linkLabel": "Open product"
     },
     {
+      "id": "Spatula",
+      "name": "عدة فك الاجهزة",
+      "category": "General",
+      "price": 30,
+      "image": "https://wirelab.co.za/wp-content/uploads/2024/10/Metal-Spudgers.jpg",
+      "linkName": "solderWire08mm",
+      "linkLabel": "Open product"
+    },
+    {
       "id": "repair-tweezers",
       "name": "Repair Tweezers",
       "category": "General",
@@ -274,35 +537,11 @@
       "linkLabel": "Open product"
     },
     {
-      "id": "ps5-wifi-j20h104",
-      "name": "PS5 WiFi J20H104",
-      "category": "PS5",
-      "price": 150,
-      "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sbea31deb3d64401493afc8e3f9d3f20bA.jpg",
-      "linkLabel": "Open product"
-    },
-    {
       "id": "solder-wick",
       "name": "Solder Wick",
       "category": "General",
       "price": 10,
       "image": "https://cdn.shopify.com/s/files/1/0575/0872/4908/files/soder-wick-75-2-10-unfluxed-desoldering-wick-06-x-10-ft-bobbin-542853.jpg?v=1745537506&width=200",
-      "linkLabel": "Open product"
-    },
-    {
-      "id": "battery-cover-xbox-series-s",
-      "name": "Battery Cover Xbox Series S",
-      "category": "Xbox Series",
-      "price": 10,
-      "image": "https://ae01.alicdn.com/kf/S2c4bf3b1ab2f4866ae11fef4fc9cd131H.jpg",
-      "linkLabel": "Open product"
-    },
-    {
-      "id": "fan-ps5-slim",
-      "name": "Fan PS5 Slim",
-      "category": "PS5",
-      "price": 80,
-      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S144d50da5dd642db94ac5e014e6db618Q.jpg",
       "linkLabel": "Open product"
     },
     {
@@ -320,38 +559,7 @@
       "price": 200,
       "image": "https://computerlounge.co.nz/cdn/shop/files/c0abd707d27d0cc02e7e6d010e8e962a10890b90_61303_1.jpg?v=1742038563&width=640",
       "linkLabel": "Open product"
-    },
-    {
-      "id": "ps5-lens-497",
-      "name": "PS5 Lens 497",
-      "category": "PS5",
-      "price": 150,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Vflmt1akLL1xNF_AGV7-xsEGwhOkj7utmQ&s",
-      "linkLabel": "Open product"
-    },
-    {
-      "id": "ps5-cap-iron",
-      "name": "PS5 Cap Iron",
-      "category": "PS5",
-      "price": 15,
-      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S27898e80918f48ef8dcc64a04ff9a92eP.jpg",
-      "linkLabel": "Open product"
-    },
-    {
-      "id": "xbox-360-battery-holder",
-      "name": "Xbox 360 Battery Holder",
-      "category": "Xbox 360",
-      "price": 10,
-      "image": "https://i5.walmartimages.com/seo/2-Pcs-Battery-Pack-Cover-Shell-for-Xbox-360-Game-Controller_b31990f1-aa03-43f6-94dc-178fdcf15da8.945a0b9c67e9b347a13470830d71a9e8.jpeg",
-      "linkLabel": "Open product"
-    },
-    {
-      "id": "xbox-360-charge-cable",
-      "name": "Xbox 360 Charge Cable",
-      "category": "Xbox 360",
-      "price": 10,
-      "image": "https://m.media-amazon.com/images/I/61twR8IZMgL._AC_UF1000,1000_QL80_.jpg",
-      "linkLabel": "Open product"
     }
+    
   ]
 }
