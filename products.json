@@ -97,8 +97,8 @@
       "linkLabel": "Open product"
     },
     {
-      "id": "Lense-499-ps5",
-      "name": "PS5 Lense-499",
+      "id": "Lense-497-ps5",
+      "name": "PS5 Lense-497",
       "category": "PS5",
       "price": 120,
       "image": "https://m.media-amazon.com/images/I/71fhOaTEiUL.jpg",
@@ -248,6 +248,15 @@
     }
     ,
     
+    {
+      "id": "power-ps4-phat",
+      "name": "Power PS4 Phat",
+      "category": "PS4",
+      "price": 180,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg33DTNLuhAjx4Gm3uZB_fjvcvZBd5vkwZQg&s",
+      "linkName": "analogPs4",
+      "linkLabel": "Open product"
+    },
     {
       "id": "drive-motor-ps4",
       "name": "Drive Motor PS4",
@@ -503,6 +512,15 @@
       "linkName": "",
       "linkLabel": "Open product"
     },
+     {
+      "id": "xbox-series-fan",
+      "name": "Xbox series s/x fan",
+      "category": "Xbox Series",
+      "price": 80,
+      "image": "https://cdn.shopify.com/s/files/1/0041/6111/0065/files/ux6oA5XPtSlwj2Lf.jpg?v=1758312155",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
     {
       "id": "xbox-Series-button",
       "name": "Xbox Series RBLB Button",
@@ -525,6 +543,16 @@
       "category": "Xbox One",
       "price": 10,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh60zlj9Eq8u8_YelX9FpTAuS1C2j0mkLfWQ&s",
+      "linkName": "powerXboxSeriesS",
+      "linkLabel": "Open product"
+    }
+    ,
+     {
+      "id": "chargingport-xbox-One",
+      "name": "Charging Port Xbox one controller",
+      "category": "Xbox One",
+      "price": 5,
+      "image": "https://www.zedlabz.com/cdn/shop/files/micro-usb-port-for-xbox-one-controller-usb-b-charging-sync-socket-repair-replacement-zedlabzzedlabz-121493.jpg?v=1741480065",
       "linkName": "powerXboxSeriesS",
       "linkLabel": "Open product"
     },
@@ -583,6 +611,15 @@
       "linkName": "powerXboxOneX",
       "linkLabel": "Open product"
     },
+     {
+      "id": "xbox-one-fan",
+      "name": "Xbox One phat/s/x fan",
+      "category": "Xbox One",
+      "price": 80,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTIIa8ouudIJLTXI_pAYthQfLM-E7I4k_bNQ&s",
+      "linkName": "powerXboxOneX",
+      "linkLabel": "Open product"
+    },
     {
       "id": "power-xbox-360-se",
       "name": "Power Xbox 360 S/E",
@@ -610,6 +647,26 @@
       "linkName": "",
       "linkLabel": "Open product"
     },
+     {
+      "id": "xbox-360-power-adapter",
+      "name": "xbox 360 power adapter",
+      "category": "Xbox 360",
+      "price": 10,
+      "image": "https://www.google.com/imgres?q=%D9%83%D8%A7%D8%A8%D9%84%20%D8%AA%D8%AD%D9%88%D9%8A%D9%84%20%D8%B4%D8%AD%D9%86%20XBox%20360%20%D8%A8%D8%B7%D9%88%D9%84%2025%20%D8%B3%D9%85%20%D8%A5%D9%84%D9%89%20XBox%20360%20Slim%D8%8C%20XBox%20360%20E%D8%8C%20XBox%20ONE%D8%8C%20%D9%83%D8%A7%D8%A8%D9%84%20%D8%AA%D8%AD%D9%88%D9%8A%D9%84%20%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9%20XBox360&imgurl=https%3A%2F%2Fsc04.alicdn.com%2Fkf%2FH6d02af66d58c495a8c7aa06ac2496019v%2FFor-Xbox-360-to-for-Xbox-Slim%2FOne%2FE-AC-Power-Adapter-Cable-Converter-Game-Accessories-Transfer-Cable-Cord.jpg&imgrefurl=https%3A%2F%2Farabic.alibaba.com%2Fproduct-detail%2FFor-Xbox-360-to-Xbox-Slim-1600462488672.html&docid=qauvaRin843s6M&tbnid=oE3fF9AjMxWdbM&vet=12ahUKEwiJ7Y6E_v6UAxWGVvEDHXI_PR4QnPAOegQIFhAB..i&w=1920&h=1920&hcb=2&ved=2ahUKEwiJ7Y6E_v6UAxWGVvEDHXI_PR4QnPAOegQIFhAB",
+      "linkName": "",
+      "linkLabel": "Open product"
+    }
+    ,
+     {
+      "id": "xbox-360-fan",
+      "name": "xbox 360 fan",
+      "category": "Xbox 360",
+      "price": 80,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7OdP42ZUkMk7dn39XyUcvZn10_uBvFvTyA&s",
+      "linkName": "",
+      "linkLabel": "Open product"
+    }
+    ,
     {
       "id": "analog-xbox-360",
       "name": "Analog Xbox 360",
@@ -742,6 +799,38 @@
       "category": "General",
       "price": 80,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IfxRgI2EdidoZuVNTKPtFv3299QpC0HZZQ&s",
+      "linkLabel": "Open product"
+    },
+     {
+      "id": "Eathernet-Cable-place",
+      "name": "cat6 mدحلة كيبل شبكة 100",
+      "category": "General",
+      "price": 150,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IfxRgI2EdidoZuVNTKPtFv3299QpC0HZZQ&s",
+      "linkLabel": "Open product"
+    },
+     {
+      "id": "RJ45*",
+      "name": "راس RJ45",
+      "category": "General",
+      "price": 1.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IfxRgI2EdidoZuVNTKPtFv3299QpC0HZZQ&s",
+      "linkLabel": "Open product"
+    },
+     {
+      "id": "scredriver-set",
+      "name": " مفك كهربائي",
+      "category": "General",
+      "price": 70,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IfxRgI2EdidoZuVNTKPtFv3299QpC0HZZQ&s",
+      "linkLabel": "Open product"
+    },
+     {
+      "id": "scredriver-set",
+      "name": " مفك كهربائي",
+      "category": "General",
+      "price":30,
+      "image": "https://docoss.in/cdn/shop/files/rs_w_1200_h_1200_3d5d66e6-2da1-440b-a15a-0f9780368903.webp?v=1684102036",
       "linkLabel": "Open product"
     }
   ]
