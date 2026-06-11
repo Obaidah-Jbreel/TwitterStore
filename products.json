@@ -10,6 +10,17 @@
       "image": "https://m.media-amazon.com/images/I/61hd85P45OL._AC_UF894,1000_QL80_.jpg",
       "linkName": "analogPs5",
       "linkLabel": "Open product"
+    }
+    ,
+    
+    {
+      "id": "Charging-IC-ps5",
+      "name": "Charging IC PS5",
+      "category": "PS5",
+      "price": 60,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRzecIHYXr-DgtxYj9XQg4ZM5FElVD1PJhQ&s",
+      "linkName": "",
+      "linkLabel": "Open product"
     },
     
     {
@@ -249,6 +260,17 @@
     ,
     
     {
+      "id": "Charging-IC-ps4",
+      "name": "Charging IC PS4",
+      "category": "PS4",
+      "price": 50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMCjSwYliMN8fly5yZXBsDuKt8vIdYBulbw&s",
+      "linkName": "",
+      "linkLabel": "Open product"
+    }
+    ,
+    
+    {
       "id": "power-ps4-phat",
       "name": "Power PS4 Phat",
       "category": "PS4",
@@ -273,6 +295,16 @@
       "category": "PS4",
       "price": 15,
       "image": "https://m.media-amazon.com/images/I/31v-KA4ohsL._AC_UF894,1000_QL80_.jpg",
+      "linkName": "analogPs4",
+      "linkLabel": "Open product"
+    }
+    ,
+    {
+      "id": "ps4-battery",
+      "name": "PS4 Battery Replacement",
+      "category": "PS4",
+      "price": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_a6StDMaH9vzDTj_W1sBKrXspNvMYF4VVg&sg",
       "linkName": "analogPs4",
       "linkLabel": "Open product"
     }
@@ -308,7 +340,7 @@
       "name": "frontpanel buttons PS4 Slim",
       "category": "PS4",
       "price": 70,
-      "image": "https://www.zeepee.in/wp-content/uploads/2022/05/PS4-SLIM-ON-OFF-SWICHx-1.jpg",
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S764be86aa02c4670bd04a150521e7d5cJ.jpg_960x960.jpg",
       "linkName": "analogPs4",
       "linkLabel": "Open product"
     },
@@ -454,7 +486,7 @@
       "id": "battery-cover-xbox-series-s",
       "name": "Battery Cover Xbox Series S",
       "category": "Xbox Series",
-      "price": 10,
+      "price": 5,
       "image": "https://ae01.alicdn.com/kf/S2c4bf3b1ab2f4866ae11fef4fc9cd131H.jpg",
       "linkLabel": "Open product"
     },
@@ -593,6 +625,15 @@
       "linkLabel": "Open product"
     }  ,
     {
+      "id": "debag-xbox-one",
+      "name": "جلد ايد تحكم xbox One",
+      "category": "Xbox One",
+      "price": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr296cXp7ZtoXogMlMZI_PzdiLO9Krc-oN4Q&s",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
+    {
       "id": "Xbox-AUX-socket",
       "name": "Xbox one/series Controller AUX Socket",
       "category": "Xbox One",
@@ -648,12 +689,20 @@
       "linkLabel": "Open product"
     },
      {
+      "id": "debag-xbox-360",
+      "name": "جلد ايد تحكم xbox 360",
+      "category": "Xbox 360",
+      "price": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6oenMN8e0Beg8j4G-rbBDCDP8JvBzznHwcA&s",
+      "linkName": "",
+      "linkLabel": "Open product"
+    },
+     {
       "id": "xbox-360-power-adapter",
       "name": "xbox 360 power adapter",
       "category": "Xbox 360",
       "price": 10,
-      "image": "https://www.google.com/imgres?q=%D9%83%D8%A7%D8%A8%D9%84%20%D8%AA%D8%AD%D9%88%D9%8A%D9%84%20%D8%B4%D8%AD%D9%86%20XBox%20360%20%D8%A8%D8%B7%D9%88%D9%84%2025%20%D8%B3%D9%85%20%D8%A5%D9%84%D9%89%20XBox%20360%20Slim%D8%8C%20XBox%20360%20E%D8%8C%20XBox%20ONE%D8%8C%20%D9%83%D8%A7%D8%A8%D9%84%20%D8%AA%D8%AD%D9%88%D9%8A%D9%84%20%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9%20XBox360&imgurl=https%3A%2F%2Fsc04.alicdn.com%2Fkf%2FH6d02af66d58c495a8c7aa06ac2496019v%2FFor-Xbox-360-to-for-Xbox-Slim%2FOne%2FE-AC-Power-Adapter-Cable-Converter-Game-Accessories-Transfer-Cable-Cord.jpg&imgrefurl=https%3A%2F%2Farabic.alibaba.com%2Fproduct-detail%2FFor-Xbox-360-to-Xbox-Slim-1600462488672.html&docid=qauvaRin843s6M&tbnid=oE3fF9AjMxWdbM&vet=12ahUKEwiJ7Y6E_v6UAxWGVvEDHXI_PR4QnPAOegQIFhAB..i&w=1920&h=1920&hcb=2&ved=2ahUKEwiJ7Y6E_v6UAxWGVvEDHXI_PR4QnPAOegQIFhAB",
-      "linkName": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1hxH7paUwpUCC9eqIFtbUcnZV8HJguD9Zw&s",
       "linkLabel": "Open product"
     }
     ,
@@ -661,7 +710,7 @@
       "id": "xbox-360-fan",
       "name": "xbox 360 fan",
       "category": "Xbox 360",
-      "price": 80,
+      "price": 50,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7OdP42ZUkMk7dn39XyUcvZn10_uBvFvTyA&s",
       "linkName": "",
       "linkLabel": "Open product"
@@ -832,6 +881,15 @@
       "category": "General",
       "price": 30,
       "image": "https://m.media-amazon.com/images/I/61Ch+gLORqL._AC_UF1000,1000_QL80_.jpg",
+      "linkLabel": "Open product"
+    }
+    ,
+     {
+      "id": "drift-Modd-set",
+      "name":"تعديلة حل مشكلة الدريفت للايادي التحكم",
+      "category": "General",
+      "price": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTizUKkGOIQ_wp3HXJ0r2_zAio9qtDNTZTluQ&s",
       "linkLabel": "Open product"
     }
   ]
