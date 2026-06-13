@@ -58,7 +58,8 @@ fetch("products.json")
               <img src="${product.image}" alt="${product.name}" />
               <div class="card-body">
                 <h2>${product.name}</h2>
-                <p class="price">Price: ${formatPriceILS(product.price)}</p>
+                <p class="price">Price: <span style="color: green;">${formatPriceILS(product.price)}</span>   </p>
+                <p class="price">Code: <bold>${product.code}</bold></p>
                 ${description ? `<p class="desc">${description}</p>` : ""}
               </div>
             </article>
